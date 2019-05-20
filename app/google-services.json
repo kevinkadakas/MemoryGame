@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "29034970669",
+    "firebase_url": "https://memorygamebykevin.firebaseio.com",
+    "project_id": "memorygamebykevin",
+    "storage_bucket": "memorygamebykevin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29034970669:android:4b0bc1faa4266912",
+        "android_client_info": {
+          "package_name": "com.kevinkadakas.memorygame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29034970669-8b5o86p1u2934mvk02t9bjtou0olkvll.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kevinkadakas.memorygame",
+            "certificate_hash": "61101a7a00fb388ef6758b1bbe6c1dea241f6505"
+          }
+        },
+        {
+          "client_id": "29034970669-vajpr4a508i4l173mcgabm8sr4ud001j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHkNTrJLZrpj_xWez6stnunUNnkbD-Vic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29034970669-vajpr4a508i4l173mcgabm8sr4ud001j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
